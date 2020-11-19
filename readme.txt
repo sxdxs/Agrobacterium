@@ -1,6 +1,6 @@
 Feel free to use any of my slides/pictures. Some material may need proper sources if you use them (old tables etc)
 
- Throw a reference to me if you use anything, Timothy M Chappell, University of Georgia. 
+ Throw a reference to me if you use anything, Timothy M Chappell, University of Georgia. Just a note at the end is okay with me. Change things, make it better and share. 
 
 There is a geneious ‘Ti plasmid’ map just roughly done with 1000 bp. I was tired of the generic Ti plasmid most people use, and doesn’t allow the option of changing specifics within operons, multiple borders, etc. Upload into your geneious program, change anything you want, export image as a static PDF, or as EMF if you want to use powerpoint objects (will test your patience).
 
