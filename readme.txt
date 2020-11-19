@@ -1,4 +1,4 @@
-Feel free to use any of my slides/pictures. Some material (6b, biovar, and tables are from other papers, would recommend finding proper source if you use)
+Feel free to use any of my slides/pictures. Some material may need proper sources if you use them (old tables etc)
 
  Throw a reference to me if you use anything, Timothy M Chappell, University of Georgia. 
 
