@@ -11,3 +11,6 @@ Homologous recombination is shown with EF-Tu (tufA/tufB) in Agrobacterium C58 (h
 Sorry if there are any errors 
 
 I can be reached at timchappell@uga.edu, timchap@gmail.com, or on twitter.
+
+
+I have noticed an error on one slide, think relating to virulence proteins but will fix soon. 
